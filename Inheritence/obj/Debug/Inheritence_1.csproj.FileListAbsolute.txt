@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\bin\Debug\Inheritence_1.exe.config
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\obj\Debug\Inheritence_1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\bin\Debug\Inheritence_1.exe
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\bin\Debug\Inheritence_1.pdb
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\obj\Debug\Inheritence_1.exe
+C:\Users\admin\Source\Repos\Inheritence_1\Inheritence_1\obj\Debug\Inheritence_1.pdb
