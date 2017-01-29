@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Inheritence
 {
-    class Program
+    public class Parent
     {
-        static void Main(string[] args)
+        public string name;
+
+        public virtual void DoWork()
         {
-            Child c = new Child();
-            Console.WriteLine(c.name);
-            c.DoWork();
+            Console.WriteLine("Parent is doing work");
         }
     }
 }
